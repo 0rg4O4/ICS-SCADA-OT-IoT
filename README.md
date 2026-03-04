@@ -1,18 +1,5 @@
 # ICS-SCADA-OT-IoT
 
-# =================================================================================
-
-# CVE-2019-11687
-
-<img width="1350" height="683" alt="Screenshot 2026-03-03 203732" src="https://github.com/user-attachments/assets/09f7344b-cbe0-4e5c-a0f4-38532daba565" />
-
-<img width="1342" height="648" alt="Screenshot 2026-03-03 203813" src="https://github.com/user-attachments/assets/f84313c0-925f-433f-89c0-fd1555263936" />
-
-<img width="737" height="494" alt="Screenshot 2026-03-03 203824" src="https://github.com/user-attachments/assets/696b3321-aca7-4af0-9784-a5f713eb89e0" />
-
-
-# =================================================================================
-
 # CVE-2019-10959 CWE-434 – Baxter Sigma Infusion Pump 
 
 <img width="1108" height="682" alt="image" src="https://github.com/user-attachments/assets/a7d6a4b2-d74c-46b1-871c-e9640a740b4d" />
