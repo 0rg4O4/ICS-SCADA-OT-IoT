@@ -47,3 +47,7 @@ output will be stored in : flight_data.csv
 run : python visualize.py ( make sure matplotlib is available)
 
 <img width="1370" height="715" alt="Figure_1" src="https://github.com/user-attachments/assets/16346da6-60d8-4ae0-9062-f7e05ce6c4ce" />
+
+<img width="724" height="717" alt="Screenshot 2026-03-30 222911" src="https://github.com/user-attachments/assets/9564dd51-1602-45e8-8c52-4dc1becd1fd0" />
+
+<img width="724" height="679" alt="Screenshot 2026-03-30 222922" src="https://github.com/user-attachments/assets/db68c58f-220f-47fd-ae15-fa943565ed59" />
